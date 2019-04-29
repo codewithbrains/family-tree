@@ -1,6 +1,11 @@
 # family-tree
 
-The "family-tree" web page allows user to create, manage, upload and download family trees in JSON, SVG or PNG formats.
+The "family-tree" web page allows user to create, manage, upload and download family trees in JSON, SVG or PNG formats. For now, it's available in:
+* `English`
+* `Italiano`
+* `Deutsch`
+* `Magyar`
+
 
 ## Description
 
